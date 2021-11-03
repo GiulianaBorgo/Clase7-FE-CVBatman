@@ -1,0 +1,60 @@
+#logobatman{
+    background-color: #E5E5E5;
+    padding: 20.91px 670px 20.91px 670px ;
+    text-align: center;
+    
+} 
+
+h1 {
+    background-color: #C4C4C4;
+    color: #005677;
+    font-size:35px;
+    line-height:29,64px;
+    letter-spacing: 3px;
+    margin-bottom:  128.19px;
+    margin-top: 0%;
+    text-align: center;
+    text-transform: uppercase;
+    padding: 14.13px 214px 16px 213px;
+    
+}
+
+.estilo-titulos{ 
+    background-color: #C4C4C4;
+    color: #005677;
+    font-size: 20px ;
+    font-feature-settings: "cpsp" on;
+    line-height: 16.94px;
+    letter-spacing: 2.5px;
+    padding: 6px 1000px 7px 12.45px;
+    text-transform: uppercase;
+}
+
+
+body {
+    font-family: Times 'Times New Roman';
+    
+}
+
+.sangria {text-indent: 75px}
+
+
+em {font-weight: bold;
+}
+
+section{margin-bottom:  128.19px}
+
+footer {
+    background: #005677;
+    color: #FFFFFF;
+    display: flex;
+    justify-content: center;
+    align-items: center;   
+}
+
+#numero_batman{ 
+    font-weight: bold;
+    font-size: 20px;    
+}
+#logoinstagram{padding: 9px 26px 8px 26px}
+#logolinkedin{padding: 9px 0px 8px 0px}
